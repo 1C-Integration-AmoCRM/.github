@@ -45,7 +45,7 @@ Sync your accounting and inventory data between 1C and AmoCRM — automate conta
 ### 🖼 Preview
 
 1C and AmoCRM systems exchanging contact and deal data  
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrY9eWJjL5-hRkSJpGs0vhpapDyJ_FYz7-pA&s)  
+![Screenshot](https://static.tildacdn.com/tild3239-3939-4763-b765-353564656135/Group_7.png)  
 *ERP meets CRM — integrated for speed and accuracy*
 
 ---
